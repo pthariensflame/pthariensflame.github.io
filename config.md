@@ -20,6 +20,7 @@ generate_rss = true
 website_title = "Chirex Tlithiens"
 website_descr = "Laine’s personal site and blog"
 website_url = "https://pthariensflame.github.io/"
+lang = "plaintext"
 +++
 
 <!--
