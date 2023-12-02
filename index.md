@@ -1,13 +1,13 @@
 +++
 title = "Chirex Tlithiens"
 hascode = false
-tags = []
+tags = ["meta"]
 +++
 
 @def lang = "plaintext"
 
-# Table of Contents
+# Chirex Tlitiens
 
 \toc
 
-# Blog Posts
+## Blog Posts
