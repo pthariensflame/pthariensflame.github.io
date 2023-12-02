@@ -4,4 +4,4 @@ hascode = false
 tags = ["meta"]
 +++
 
-- [meta](/tags/meta/)
+- [meta](/tag/meta)
