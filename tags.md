@@ -1,7 +1,7 @@
 +++
-title = "Home"
+title = "Tags"
 hascode = false
 tags = ["meta"]
 +++
 
-# Home
+- [meta](/tags/meta)
