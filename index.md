@@ -5,9 +5,3 @@ tags = ["meta"]
 +++
 
 @def lang = "plaintext"
-
-# Chirex Tlitiens
-
-\toc
-
-## Blog Posts
