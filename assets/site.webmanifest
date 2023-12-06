@@ -3,6 +3,12 @@
   "short_name": "Chirex Tlithiens",
   "icons": [
     {
+      "src": "/fullscale-icon.png",
+      "sizes": "1024x1024",
+      "type": "image/png",
+      "density": "21.333333333333332"
+    },
+    {
       "src": "/android-chrome-512x512.png",
       "sizes": "512x512",
       "type": "image/png",
